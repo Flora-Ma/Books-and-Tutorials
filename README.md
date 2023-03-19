@@ -22,5 +22,7 @@ Books:
 ## Investment
 Tutorials:
 >- [投资学(清华大学)](https://www.xuetangx.com/course/thu02011003130/5894331). The videos can also be found in [bilibili](https://www.bilibili.com/video/BV19u41117sz/?spm_id_from=333.999.0.0&vd_source=e312375de170c457b27c7479335efc62).
+
+
 Documentary:
->-[《华尔街》（2010）](https://www.bilibili.com/video/BV1Sp4y147N3/?spm_id_from=333.999.0.0&vd_source=e312375de170c457b27c7479335efc62) 央视纪录片
+>- [《华尔街》（2010）](https://www.bilibili.com/video/BV1Sp4y147N3/?spm_id_from=333.999.0.0&vd_source=e312375de170c457b27c7479335efc62) 央视纪录片
