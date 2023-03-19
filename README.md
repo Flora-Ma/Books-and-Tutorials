@@ -13,7 +13,7 @@ Books:
 >- [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/). This book tells scalability, reliability, efficiency, and maintainability in system design and discuss how to choose for your application from a variety of tools including relational databases, NoSQL datastores, stream or batch processors, and message brokers.
 
 Code Base:
->- [Source for the book 500 Lines or Less](https://github.com/aosabook/500lines): each chapter consists of a walkthrough of a program that solves a canonical problem in software engineering in at most 500 source lines of code.
+>- [Source for the book 500 Lines or Less](https://github.com/aosabook/500lines) whose each chapter consists of a walkthrough of a program that solves a canonical problem in software engineering in at most 500 source lines of code.
 
 ## Concurrency and multithreaded development
 Books:
