@@ -19,10 +19,13 @@ Code Base:
 Books:
 >- [Concurrency in C# Cookbook](https://learning.oreilly.com/library/view/concurrency-in-c/9781491906675/). It's a practical book which demonstrates parallel processing and asynchronous programming techniques, using libraries and language features in .Net 4.5 and C# 5.0.
 
-## Investment
+## Investment and Finance
 Tutorials:
 >- [投资学(清华大学)](https://www.xuetangx.com/course/thu02011003130/5894331). The videos can also be found in [bilibili](https://www.bilibili.com/video/BV19u41117sz/?spm_id_from=333.999.0.0&vd_source=e312375de170c457b27c7479335efc62).
 
 
 Documentary:
 >- [《华尔街》（2010）](https://www.bilibili.com/video/BV1Sp4y147N3/?spm_id_from=333.999.0.0&vd_source=e312375de170c457b27c7479335efc62) 央视纪录片. It's about the history of wallstreet. An interesting documentary.
+
+Books:
+>- [巴比伦最富有的人](https://baike.baidu.com/item/%E5%B7%B4%E6%AF%94%E4%BC%A6%E6%9C%80%E5%AF%8C%E6%9C%89%E7%9A%84%E4%BA%BA/19817876) ([The Richest Man in Babylon](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111)) by George S. Clason: a thin book which tells you how to "get along" well with money through fables, which I'd like to recommend all the young people in my family.
