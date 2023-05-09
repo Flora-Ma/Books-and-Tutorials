@@ -28,4 +28,8 @@ Documentary:
 >- [《华尔街》（2010）](https://www.bilibili.com/video/BV1Sp4y147N3/?spm_id_from=333.999.0.0&vd_source=e312375de170c457b27c7479335efc62) 央视纪录片. It's about the history of wallstreet. An interesting documentary.
 
 Books:
->- [巴比伦最富有的人](https://baike.baidu.com/item/%E5%B7%B4%E6%AF%94%E4%BC%A6%E6%9C%80%E5%AF%8C%E6%9C%89%E7%9A%84%E4%BA%BA/19817876) ([The Richest Man in Babylon](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111)) by George S. Clason: a thin book which tells you how to "get along" well with money through fables, which I'd like to recommend to all the young people in my family.
+>- [巴比伦最富有的人](https://baike.baidu.com/item/%E5%B7%B4%E6%AF%94%E4%BC%A6%E6%9C%80%E5%AF%8C%E6%9C%89%E7%9A%84%E4%BA%BA/19817876) ([The Richest Man in Babylon](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111)) by George S. Clason: a thin book which tells you how to "get along" well with money through fables, which I'd like to recommend to all the young people in my family.  
+
+## Well-being
+Books:  
+>- [《经典中医启蒙》(李辛)](https://www.amazon.com/%E7%BB%8F%E5%85%B8%E4%B8%AD%E5%8C%BB%E5%90%AF%E8%92%99-%E6%9D%8E%E8%BE%9B/dp/B07C3M3W35). An introduction book to traditional Chinese medicine. TCM thinks many diseases are from metal issuses. Mental(神) is a very important part of a human-being. This book tells the traditional Chinese philosophy about keeping mental healthy, which give me a lot of inspirations.
