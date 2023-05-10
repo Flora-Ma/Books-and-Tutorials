@@ -32,4 +32,4 @@ Books:
 
 ## Well-being
 Books:  
->- [《经典中医启蒙》(李辛)](https://www.amazon.com/%E7%BB%8F%E5%85%B8%E4%B8%AD%E5%8C%BB%E5%90%AF%E8%92%99-%E6%9D%8E%E8%BE%9B/dp/B07C3M3W35). An introduction book to traditional Chinese medicine. TCM thinks many diseases are from metal issuses. Mental(神) is a very important part of a human-being. This book tells the traditional Chinese philosophy about keeping mental healthy, which give me a lot of inspirations.
+>- [《经典中医启蒙》(李辛)](https://www.amazon.com/%E7%BB%8F%E5%85%B8%E4%B8%AD%E5%8C%BB%E5%90%AF%E8%92%99-%E6%9D%8E%E8%BE%9B/dp/B07C3M3W35). An introduction book to traditional Chinese medicine. TCM thinks many diseases are from metal issuses. Mental(神) is a very important part of a human-being. This book tells the traditional Chinese philosophy about keeping mental healthy, which gives me a lot of inspirations.
